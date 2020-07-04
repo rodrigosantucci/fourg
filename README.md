@@ -1,1 +1,2 @@
-# fourg
+# FOURG
+# Sistema de Gerenciamento Escolar
