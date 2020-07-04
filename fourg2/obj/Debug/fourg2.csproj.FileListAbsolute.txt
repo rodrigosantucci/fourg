@@ -1,0 +1,116 @@
+C:\Users\Aluno\Documents\fourg2\fourg2\bin\fourg2.dll
+C:\Users\Aluno\Documents\fourg2\fourg2\bin\fourg2.pdb
+C:\Users\Aluno\Documents\fourg2\fourg2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\fourg2\fourg2\obj\Debug\fourg2.dll
+C:\Users\Aluno\Documents\fourg2\fourg2\obj\Debug\fourg2.pdb
+C:\Users\user\Desktop\fourg2\fourg2\bin\fourg2.dll
+C:\Users\user\Desktop\fourg2\fourg2\bin\fourg2.pdb
+C:\Users\user\Desktop\fourg2\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\fourg2\fourg2\obj\Debug\fourg2.dll
+C:\Users\user\Desktop\fourg2\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Rodrigo\Desktop\fourg2\fourg2\bin\fourg2.dll
+C:\Users\Rodrigo\Desktop\fourg2\fourg2\bin\fourg2.pdb
+C:\Users\Rodrigo\Desktop\fourg2\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\fourg2\fourg2\obj\Debug\fourg2.dll
+C:\Users\Rodrigo\Desktop\fourg2\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Aluno\Desktop\fourg2\fourg2\obj\Debug\fourg2.dll
+C:\Users\Aluno\Desktop\fourg2\fourg2\bin\fourg2.dll
+C:\Users\Aluno\Desktop\fourg2\fourg2\bin\fourg2.pdb
+C:\Users\Aluno\Desktop\fourg2\fourg2\bin\MySql.Data.dll
+C:\Users\Aluno\Desktop\fourg2\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Aluno\Desktop\Pré-Apresentação Projeto Final\fourg2\fourg2\bin\fourg2.dll
+C:\Users\Aluno\Desktop\Pré-Apresentação Projeto Final\fourg2\fourg2\bin\fourg2.pdb
+C:\Users\Aluno\Desktop\Pré-Apresentação Projeto Final\fourg2\fourg2\bin\MySql.Data.dll
+C:\Users\Aluno\Desktop\Pré-Apresentação Projeto Final\fourg2\fourg2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Pré-Apresentação Projeto Final\fourg2\fourg2\obj\Debug\fourg2.dll
+C:\Users\Aluno\Desktop\Pré-Apresentação Projeto Final\fourg2\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Aluno\Desktop\fourg2\fourg2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Apresentação\fourg2\fourg2\bin\fourg2.dll
+C:\Users\Aluno\Desktop\Apresentação\fourg2\fourg2\bin\fourg2.pdb
+C:\Users\Aluno\Desktop\Apresentação\fourg2\fourg2\bin\MySql.Data.dll
+C:\Users\Aluno\Desktop\Apresentação\fourg2\fourg2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Apresentação\fourg2\fourg2\obj\Debug\fourg2.dll
+C:\Users\Aluno\Desktop\Apresentação\fourg2\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Alex\Desktop\fourg2\fourg2\bin\fourg2.dll
+C:\Users\Alex\Desktop\fourg2\fourg2\bin\fourg2.pdb
+C:\Users\Alex\Desktop\fourg2\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\fourg2\fourg2\obj\Debug\fourg2.dll
+C:\Users\Alex\Desktop\fourg2\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Aluno\Desktop\FourG Apresentação\fourg2\fourg2\bin\fourg2.dll
+C:\Users\Aluno\Desktop\FourG Apresentação\fourg2\fourg2\bin\fourg2.pdb
+C:\Users\Aluno\Desktop\FourG Apresentação\fourg2\fourg2\bin\MySql.Data.dll
+C:\Users\Aluno\Desktop\FourG Apresentação\fourg2\fourg2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\FourG Apresentação\fourg2\fourg2\obj\Debug\fourg2.dll
+C:\Users\Aluno\Desktop\FourG Apresentação\fourg2\fourg2\obj\Debug\fourg2.pdb
+C:\Users\user\Desktop\03.12.2013 UPDATE E DELETE GRIDVIEW E ALTERAR SENHA\fourg2\bin\fourg2.dll
+C:\Users\user\Desktop\03.12.2013 UPDATE E DELETE GRIDVIEW E ALTERAR SENHA\fourg2\bin\fourg2.pdb
+C:\Users\user\Desktop\03.12.2013 UPDATE E DELETE GRIDVIEW E ALTERAR SENHA\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\03.12.2013 UPDATE E DELETE GRIDVIEW E ALTERAR SENHA\fourg2\obj\Debug\fourg2.dll
+C:\Users\user\Desktop\03.12.2013 UPDATE E DELETE GRIDVIEW E ALTERAR SENHA\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Aluno\Desktop\04.12.2014 CORRIGINDO ALGUNS BUGS E FAZENDO CAD ADMIN\fourg2\bin\fourg2.dll
+C:\Users\Aluno\Desktop\04.12.2014 CORRIGINDO ALGUNS BUGS E FAZENDO CAD ADMIN\fourg2\bin\fourg2.pdb
+C:\Users\Aluno\Desktop\04.12.2014 CORRIGINDO ALGUNS BUGS E FAZENDO CAD ADMIN\fourg2\bin\MySql.Data.dll
+C:\Users\Aluno\Desktop\04.12.2014 CORRIGINDO ALGUNS BUGS E FAZENDO CAD ADMIN\fourg2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\04.12.2014 CORRIGINDO ALGUNS BUGS E FAZENDO CAD ADMIN\fourg2\obj\Debug\fourg2.dll
+C:\Users\Aluno\Desktop\04.12.2014 CORRIGINDO ALGUNS BUGS E FAZENDO CAD ADMIN\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Aluno\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\bin\fourg2.dll
+C:\Users\Aluno\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\bin\fourg2.pdb
+C:\Users\Aluno\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\bin\MySql.Data.dll
+C:\Users\Aluno\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\obj\Debug\fourg2.dll
+C:\Users\Aluno\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\obj\Debug\fourg2.pdb
+C:\Users\user\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\bin\fourg2.dll
+C:\Users\user\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\bin\fourg2.pdb
+C:\Users\user\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\obj\Debug\fourg2.dll
+C:\Users\user\Desktop\04.12.2014 SELECT DA PAGINA INICIO\fourg2\obj\Debug\fourg2.pdb
+C:\Users\user\Desktop\08.12.2014 COMEÇANDO A FAZER A PAGINA DE INICIO\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\08.12.2014 COMEÇANDO A FAZER A PAGINA DE INICIO\fourg2\obj\Debug\fourg2.dll
+C:\Users\user\Desktop\08.12.2014 COMEÇANDO A FAZER A PAGINA DE INICIO\fourg2\bin\fourg2.dll
+C:\Users\user\Desktop\08.12.2014 COMEÇANDO A FAZER A PAGINA DE INICIO\fourg2\bin\fourg2.pdb
+C:\Users\user\Desktop\08.12.2014 COMEÇANDO A FAZER A PAGINA DE INICIO\fourg2\obj\Debug\fourg2.pdb
+C:\Users\user\Desktop\08.12.2014 COMEÇANDO A FAZER A PAGINA DE INICIO\fourg2\bin\OpenPop.dll
+C:\Users\Aluno\Desktop\09.12.2014 ADMIN LENDO EMAIL E SELECT INICIO FEITO\fourg2\bin\fourg2.dll
+C:\Users\Aluno\Desktop\09.12.2014 ADMIN LENDO EMAIL E SELECT INICIO FEITO\fourg2\bin\fourg2.pdb
+C:\Users\Aluno\Desktop\09.12.2014 ADMIN LENDO EMAIL E SELECT INICIO FEITO\fourg2\bin\MySql.Data.dll
+C:\Users\Aluno\Desktop\09.12.2014 ADMIN LENDO EMAIL E SELECT INICIO FEITO\fourg2\bin\OpenPop.dll
+C:\Users\Aluno\Desktop\09.12.2014 ADMIN LENDO EMAIL E SELECT INICIO FEITO\fourg2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\09.12.2014 ADMIN LENDO EMAIL E SELECT INICIO FEITO\fourg2\obj\Debug\fourg2.dll
+C:\Users\Aluno\Desktop\09.12.2014 ADMIN LENDO EMAIL E SELECT INICIO FEITO\fourg2\obj\Debug\fourg2.pdb
+C:\Users\user\Desktop\09.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\bin\fourg2.dll
+C:\Users\user\Desktop\09.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\bin\fourg2.pdb
+C:\Users\user\Desktop\09.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\bin\OpenPop.dll
+C:\Users\user\Desktop\09.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\09.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\obj\Debug\fourg2.dll
+C:\Users\user\Desktop\09.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\obj\Debug\fourg2.pdb
+C:\Users\user\Desktop\10.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\bin\fourg2.dll
+C:\Users\user\Desktop\10.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\bin\fourg2.pdb
+C:\Users\user\Desktop\10.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\bin\OpenPop.dll
+C:\Users\user\Desktop\10.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\obj\Debug\fourg2.dll
+C:\Users\user\Desktop\10.12.2014 COMEÇANDO A FAZER COMO FUNCIONA\fourg2\obj\Debug\fourg2.pdb
+C:\Users\user\Desktop\11.12.2014 ULTIMO PROJETO NESSA PORRA\fourg2\bin\fourg2.dll
+C:\Users\user\Desktop\11.12.2014 ULTIMO PROJETO NESSA PORRA\fourg2\bin\fourg2.pdb
+C:\Users\user\Desktop\11.12.2014 ULTIMO PROJETO NESSA PORRA\fourg2\bin\OpenPop.dll
+C:\Users\user\Desktop\11.12.2014 ULTIMO PROJETO NESSA PORRA\fourg2\obj\Debug\fourg2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\11.12.2014 ULTIMO PROJETO NESSA PORRA\fourg2\obj\Debug\fourg2.dll
+C:\Users\user\Desktop\11.12.2014 ULTIMO PROJETO NESSA PORRA\fourg2\obj\Debug\fourg2.pdb
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\bin\fourg2.dll.config
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\bin\fourg2.dll
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\bin\fourg2.pdb
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\bin\MySql.Data.dll
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\bin\OpenPop.dll
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\obj\Debug\fourg2.csprojAssemblyReference.cache
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\obj\Debug\fourg2.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\obj\Debug\fourg2.csproj.CopyComplete
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\obj\Debug\fourg2.dll
+C:\Users\Rodri\Área de Trabalho\ULTIMO APRESENTAÇÃO\fourg2\obj\Debug\fourg2.pdb
+F:\Arquivos\Projetos\fourg 1.0\fourg2\bin\fourg2.dll.config
+F:\Arquivos\Projetos\fourg 1.0\fourg2\bin\fourg2.dll
+F:\Arquivos\Projetos\fourg 1.0\fourg2\bin\fourg2.pdb
+F:\Arquivos\Projetos\fourg 1.0\fourg2\bin\MySql.Data.dll
+F:\Arquivos\Projetos\fourg 1.0\fourg2\bin\OpenPop.dll
+F:\Arquivos\Projetos\fourg 1.0\fourg2\obj\Debug\fourg2.csprojAssemblyReference.cache
+F:\Arquivos\Projetos\fourg 1.0\fourg2\obj\Debug\fourg2.csproj.CopyComplete
+F:\Arquivos\Projetos\fourg 1.0\fourg2\obj\Debug\fourg2.dll
+F:\Arquivos\Projetos\fourg 1.0\fourg2\obj\Debug\fourg2.pdb

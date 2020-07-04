@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Usuario.Site1" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>FourG </title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600"
+        rel="stylesheet" type="text/css" />
+    <%--<script src="../js2/init.js"></script>--%>
+    <script type="text/javascript" src="../js2/jquery.min.js"></script>
+    <script type="text/javascript" src="../js2/skel.min.js"></script>
+    <link href="../css2/estilos.css" rel="stylesheet" />
+    <script src="../js/jquery.mask.js"></script>
+    <script src="../js2/scripts.js"></script>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" />
+    <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.0/jquery-ui.js"></script>
+    <script src="../js2/jquery.mask.js"></script>
+    <link rel="shortcut icon" href="../images/fourgicon.png" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <!-- Header -->
+    <div id="header" class="skel-panels-fixed">
+        <div class="top">
+            <!-- Logo -->
+            <div id="logo">
+                <div id="nomeusuario" class="fa fa-user"></div>
+                <h1 id="title">
+                    <asp:Label ID="lblnomeusuario" runat="server" Text="Label"></asp:Label></h1>
+                <span class="byline">Bem-vindo! </span>
+            </div>
+            <!-- Nav -->
+            <nav id="nav">
+
+                    <ul>
+                        <li><a href="Inicio.aspx" id="top-link" class="skel-panels-ignoreHref"><span class="fa fa-home">Início</span></a></li>
+                        <li><a href="Materias.aspx" id="portfolio-link" class="skel-panels-ignoreHref"><span class="fa fa-th">Matérias</span></a></li>
+                        <li><a href="Avisos.aspx" id="A1" class="skel-panels-ignoreHref"><span class="fa fa-bell">Notificações</span></a></li>
+                        <li><a href="Anotacao.aspx" id="A2" class="skel-panels-ignoreHref"><span class="fa fa-folder-open">Anotações</span></a></li>
+                        <li><a href="Config.aspx" id="about-link" class="skel-panels-ignoreHref"><span class="fa fa-cog solo">Configurações</span></a></li>
+                        <li><a href="logout.aspx" id="contact-link" class="skel-panels-ignoreHref"><span class="fa fa-power-off">Sair</span></a></li>
+
+                    </ul>
+                </nav>
+        </div>
+        <div class="bottom">
+            <!-- Social Icons -->
+            <ul class="icons">
+                <li><a href="#" class="fa fa-twitter solo"><span>Twitter</span></a></li>
+                <li><a href="#" class="fa fa-facebook solo"><span>Facebook</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+
+    </form>
+    <div id="footer">
+        <!-- Copyright -->
+        <div class="copyright">
+            <p>
+                &copy; 2014 FourG. Todos direitos reservados.</p>
+            <ul class="menu">
+                <li>Design: <a>FourG</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

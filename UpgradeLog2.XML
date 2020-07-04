@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="fourg2">
+</Property><Property Name="Solution File" Value="C:\Users\Aluno\Desktop\fourg2\fourg2.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Aluno\Desktop\fourg2\fourg2.suo">
+</Property><Property Name="Date" Value="segunda-feira, 20 de outubro de 2014">
+</Property><Property Name="Time" Value="18:30">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="fourg2.sln" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2.sln">
+</Event><Event ErrorLevel="0" Project="" Source="fourg2.suo" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2.suo">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\fourg2.csproj" Description="Project file successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\fourg2.csproj">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\fourg2.csproj.user" Description="Project user file successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\fourg2.csproj.user">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Cadastro.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Cadastro.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Cadastro.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Cadastro.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Default.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Default.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Guia.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Guia.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Guia.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Guia.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Login.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Login.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Login.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Login.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\login.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\login.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Site.Master.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Site.Master.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Site.Master.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Site.Master.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Avisos.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Avisos.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Avisos.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Avisos.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Config.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Config.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Config.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Config.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Inicio.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Inicio.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Inicio.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Inicio.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Logout.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Logout.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Logout.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Logout.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Materias.aspx.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Materias.aspx.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Materias.aspx.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Materias.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Site1.Master.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Site1.Master.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Site1.Master.designer.cs" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Site1.Master.designer.cs">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css\bootstrap.css.map" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css\bootstrap.css.map">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\fonts\glyphicons-halflings-regular.eot" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\fonts\glyphicons-halflings-regular.eot">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\fonts\glyphicons-halflings-regular.ttf" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\fonts\glyphicons-halflings-regular.ttf">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\fonts\glyphicons-halflings-regular.woff" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\fonts\glyphicons-halflings-regular.woff">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Cadastro.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Cadastro.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\font\fontawesome-webfont.svg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\font\fontawesome-webfont.svg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\ie8.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\ie8.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\ie9.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\ie9.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\images\ie9\button.svg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\images\ie9\button.svg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\images\overlay.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\images\overlay.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\images\toggle.svg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\images\toggle.svg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\PIE.htc" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\PIE.htc">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\skel-noscript.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\skel-noscript.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\style-mobile.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\style-mobile.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\style-narrow.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\style-narrow.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\style-narrower.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\style-narrower.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\style-normal.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\style-normal.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\style-wide.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\style-wide.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\style.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\style.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css\bootstrap.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css\bootstrap.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css\estilo.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css\estilo.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css\font-awesoma.min.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css\font-awesoma.min.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css\modern-business.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css\modern-business.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css\style-desktop.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css\style-desktop.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Default.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Default.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\dlls\MySql.Data.dll" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\dlls\MySql.Data.dll">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\fonts\font-awesome.min.css" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\fonts\font-awesome.min.css">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\fonts\glyphicons-halflings-regular.svg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\fonts\glyphicons-halflings-regular.svg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Guia.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Guia.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\1.jpg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\1.jpg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\2.jpg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\2.jpg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\3.jpg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\3.jpg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\4.jpg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\4.jpg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\5.jpg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\5.jpg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\6.jpg" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\6.jpg">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\boletimonline.PNG" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\boletimonline.PNG">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\book95 (1).png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\book95 (1).png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\cell.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\cell.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\envelope.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\envelope.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\female.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\female.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\glyphicons_088_address_book.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\glyphicons_088_address_book.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\iconelivrobranco.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\iconelivrobranco.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\key.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\key.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\male.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\male.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\pattern.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\pattern.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\phone.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\phone.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\images\user.png" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\images\user.png">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\js2\html5shiv.js" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\js2\html5shiv.js">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\js2\init.js" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\js2\init.js">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\js2\jquery.min.js" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\js2\jquery.min.js">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\js2\skel.min.js" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\js2\skel.min.js">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\js\bootstrap.js" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\js\bootstrap.js">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\js\bootstrap.min.js" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\js\bootstrap.min.js">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\js\jquery-1.11.0.js" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\js\jquery-1.11.0.js">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Login.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Login.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\font\fontawesome-webfont.eot" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\font\fontawesome-webfont.eot">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\font\fontawesome-webfont.ttf" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\font\fontawesome-webfont.ttf">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\font\fontawesome-webfont.woff" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\font\fontawesome-webfont.woff">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\css2\font\FontAwesome.otf" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\css2\font\FontAwesome.otf">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Site.Master" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Site.Master">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Avisos.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Avisos.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Config.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Config.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Inicio.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Inicio.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Logout.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Logout.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Materias.aspx" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Materias.aspx">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Web.config" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Web.config">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Web.Debug.config" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Web.Debug.config">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Web.Release.config" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Web.Release.config">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\Usuario\Site1.Master" Description="File successfully backed up as C:\Users\Aluno\Desktop\fourg2\Backup1\fourg2\Usuario\Site1.Master">
+</Event><Event ErrorLevel="0" Project="fourg2" Source="fourg2\fourg2.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="fourg2" Source="fourg2\fourg2.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="fourg2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="fourg2.sln" Description="Converted">
+</Event></UpgradeLog>

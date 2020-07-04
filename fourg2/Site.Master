@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="fourg2.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+
+    <title>FourG - Pagina Inicial</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link href="images/fourgicon.png" rel="shortcut icon" type="image/x-icon">
+
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600" />
+    <link href="css/modern-business.css" rel="stylesheet" />
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/estilo.css" rel="stylesheet" />
+    <script src="js/jquery-1.11.0.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/jquery.mask.js"></script>
+    <script src="js/comofunciona.js"></script>
+    <script src="js/cycle.js"></script>
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+     <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+</head>
+<body>
+
+
+    <%-- NAVBAR--%>
+    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a id="logonav" class="navbar-brand" href="Default.aspx"><img src="images/iconelivrobranco.png" /> FourG.</a>
+            </div>
+            <div class="pull-right">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="Default.aspx">Início</a></li>
+                    <li><a href="Guia.aspx">Como funciona</a></li>
+                    <li><a href="Login.aspx">Acesse sua conta</a></li>
+                    <li><a href="Cadastro.aspx">Inscreva-se</a></li>
+                    <li><a href="Contato.aspx">Contato</a></li>
+                </ul>
+            </div>
+            <!-- /.nav-collapse -->
+        </div>
+        <!-- /.container -->
+    </div>
+
+   
+
+    <%--    Conteudo das paginas filhas--%>
+
+    <asp:ContentPlaceHolder runat="server" ID="MainContent" >
+
+
+    </asp:ContentPlaceHolder>
+
+
+ 
+
+
+</body>
+</html>

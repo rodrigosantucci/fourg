@@ -1,0 +1,397 @@
+﻿body {
+    margin: 0;
+    color: #292f33;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+div {
+    display: block;
+}
+
+
+#conteudo {
+    width: 1190px;
+    max-width: 837px;
+    padding: 56px 14px 15px;
+    position: relative;
+    margin: 0 auto;
+    min-height: 0;
+    content: " ";
+    display: table;
+    clear: both;
+    font-family: Arial,sans-serif;
+    color: #292f33;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+
+#paginacanvascad {
+    border-radius: 6px;
+    border: 1px solid rgba(0,0,0,0.1);
+    background-clip: padding-box;
+    position: relative;
+    width: 888px;
+    margin: 0 auto;
+    display: block;
+    font-family: Arial,sans-serif;
+    height: 602px;
+}
+
+
+
+
+
+
+
+#paginacanvas {
+    height: 292px;
+    width: auto;
+    max-width: 835px;
+    background-color: #fff;
+    box-shadow: 0 0 225px rgba(255,255,255,.55);
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 1px solid rgba(0,0,0,0.1);
+    background-clip: padding-box;
+    position: relative;
+    margin: 0 auto;
+    font-family: Arial,sans-serif;
+    color: #292f33;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+
+.loginwrapper {
+    width: auto;
+    max-width: 585px;
+    padding: 0 10px;
+    margin: 0 auto 10px;
+    display: block;
+    clear: both;
+    font-family: Arial,sans-serif;
+    color: #292f33;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.cadastrowrapper {
+    margin: 0 auto 10px;
+    display: block;
+    width: 585px;
+    clear: both;
+    font-family: Arial,sans-serif;
+    color: #292f33;
+    font-size: 14px;
+    line-height: 18px;
+    height: 617px;
+}
+
+.formcadastro {
+    padding: 10px 0;
+    font-size: 12px;
+    margin-bottom: 0;
+    display: block;
+    margin-top: 0em;
+    font-family: Arial,sans-serif;
+    color: #292f33;
+    line-height: 18px;
+    height: 518px;
+}
+
+.cadastrotextbox {
+    display: block;
+    width: 585px;
+    height: 70px;
+    background-color: #ffffff;
+    border-radius: 0 0 8px 8px;
+    font-size: 12px;
+    font-family: Arial,sans-serif;
+    color: #292f33;
+    line-height: 18px;
+}
+
+
+
+
+.formlogin {
+    font-size: 12px;
+    margin-bottom: 0;
+    display: block;
+    margin-top: 0em;
+    content: " ";
+    display: table;
+    clear: both;
+    content: " ";
+    display: table;
+    font-family: Arial,sans-serif;
+    color: #292f33;
+    line-height: 18px;
+}
+
+.footerlogin {
+    padding: 20px 10px;
+    background-color: #E4DEDE;
+    font-size: 13px;
+    line-height: 13px;
+    color: #8899a6;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    display: block;
+    content: " ";
+    display: table;
+    clear: both;
+    content: " ";
+    display: table;
+    float: left;
+    width: 833px;
+    height: 80px;
+    padding-bottom: 17px;
+    padding-left: 100px;
+}
+
+.footercadastro {
+    padding: 20px 10px;
+    background-color: #E4DEDE;
+    font-size: 13px;
+    line-height: 13px;
+    color: #8899a6;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    display: table;
+    clear: both;
+    content: " ";
+    display: table;
+    height: 80px;
+    padding-bottom: 17px;
+    padding-left: 100px;
+    right: 0px;
+    width: 886px;
+    position: absolute;
+    bottom: 0;
+}
+
+
+
+
+fieldset {
+    margin-bottom: 16px;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    display: block;
+    -webkit-margin-start: 2px;
+    -webkit-margin-end: 2px;
+    -webkit-padding-before: 0.35em;
+    -webkit-padding-start: 0.75em;
+    -webkit-padding-end: 0.75em;
+    -webkit-padding-after: 0.625em;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+
+.dentrodofieldset {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    display: block;
+    -webkit-padding-start: 2px;
+    -webkit-padding-end: 2px;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+.linkparacadastrar {
+    margin-bottom: 15px;
+    max-width: 585px;
+    margin: 0 auto;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-size: 13px;
+    line-height: 13px;
+    color: #8899a6;
+}
+
+.linkparaajuda {
+    max-width: 585px;
+    margin: 0 auto;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-size: 13px;
+    line-height: 13px;
+    color: #8899a6;
+}
+
+
+/*botao entrar*/
+.btn-primary {
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+}
+
+.botaolembraresquece {
+    display: block;
+    content: " ";
+    display: table;
+    clear: both;
+    content: " ";
+    display: table;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+
+.lembraresquece {
+    display: inline-block;
+    margin-bottom: 0;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+    padding-left: 10px;
+}
+
+.separador {
+    text-align: left;
+    color: #292f33;
+    line-height: 30px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+
+.labelformcadastro {
+    display: block;
+    width: 585px;
+    height: 53px;
+    background-color: #ffffff;
+    border-radius: 0 0 8px 8px;
+    font-size: 13px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+
+.textboxformcadastro {
+    position: relative;
+    margin-bottom: 25px;
+    display: block;
+    width: 390px;
+    height: 30px;
+    background-color: #ffffff;
+    border-radius: 0 0 8px 8px;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+.validadorlateral {
+    margin-top: 8px;
+    position: absolute;
+    left: 430px;
+    width: 200px;
+    display: block;
+    height: 16px;
+    background-color: #ffffff;
+    border-radius: 0 0 8px 8px;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+
+.validadorlaterallogin {
+    position: absolute;
+    width: 200px;
+    margin-left: 275px;
+    Arial,sans-serif;
+}
+
+
+.formulariocadastro {
+    display: block;
+    width: 585px;
+    height: 336px;
+    background-color: #ffffff;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+
+
+.faca {
+    display: block;
+    width: 9px;
+    height: 9px;
+    background-color: #f4f4f4;
+    border-radius: 0 0 8px 8px;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+
+.caixafaca {
+    background: #fff;
+    width: 392px;
+    border-top: 0;
+    text-align: left;
+    margin: 15px 0;
+    display: block;
+    width: 9px;
+    height: 9px;
+    background-color: #f4f4f4;
+    border-radius: 0 0 8px 8px;
+    font-size: 12px;
+    color: #292f33;
+    line-height: 18px;
+}
+
+
+.botaocadastrar {
+    margin: 0;
+    width: 392px;
+    padding: 7px 0;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #22F644;
+    background-repeat: repeat-x;
+    background-image: linear-gradient(#1FE91F,#0BB21F);
+    border-color: #08BB25;
+    box-sizing: border-box;
+    border-radius: 3px;
+    border: 1px solid #e1e8ed;
+}
+
+
